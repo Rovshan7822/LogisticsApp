@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class LogisticsAppApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(LogisticsAppApplication.class, args);
+		SpringApplication.run(LogisticsAppApplication.class, args); 
 	}
 
 }
